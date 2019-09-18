@@ -1,0 +1,7 @@
+ConfigFile:         "config.yml"
+AllowCrossOrigin:   true
+CharSet:            "UTF-8"
+
+MathComputationServer:
+  Port: "9001"
+  
